@@ -29,40 +29,7 @@
           "book_image_width": 333,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/0385546572?tag=NYTBSREV-20",
-          "tags":["fantasy","biology","chemistry"],
-          "isbns": [
-            {
-              "isbn10": "0385546572",
-              "isbn13": "9780385546577"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/0385546572?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=WHILE+JUSTICE+SLEEPS&author=Stacey+Abrams"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385546577"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FWHILE%252BJUSTICE%252BSLEEPS%252FStacey%252BAbrams%252F9780385546577&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DWHILE%252BJUSTICE%252BSLEEPS%252BStacey%252BAbrams"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385546577&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DWHILE%2BJUSTICE%2BSLEEPS"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385546577%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DWHILE%2BJUSTICE%2BSLEEPS%2BStacey%2BAbrams%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/cef54ed8-224a-5c72-989c-96b413c287d0"
+          "tags":["fantasy","biology","chemistry"]
         },
         {
           "rank": 2,
@@ -77,48 +44,7 @@
           "book_image_width": 342,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/0385547684?tag=NYTBSREV-20",
-          "tags":["fantasy","life","social"],
-          "isbns": [
-            {
-              "isbn10": "0385547684",
-              "isbn13": "9780385547680"
-            },
-            {
-              "isbn10": "0385547714",
-              "isbn13": "9780385547710"
-            },
-            {
-              "isbn10": "0593459288",
-              "isbn13": "9780593459287"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/0385547684?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=SOOLEY&author=John+Grisham"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385547680"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FSOOLEY%252FJohn%252BGrisham%252F9780385547680&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DSOOLEY%252BJohn%252BGrisham"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780385547680&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DSOOLEY"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780385547680%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DSOOLEY%2BJohn%2BGrisham%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/010af0b7-2a30-598f-97f5-1ed63c3426e1"
+          "tags":["fantasy","life","social"]
         },
         {
           "rank": 3,
@@ -133,45 +59,10 @@
           "book_image_width": 324,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/031649934X?tag=NYTBSREV-20",
-          "tags":["fantasy","tech","lifestyle"],
-          "isbns": [
-            {
-              "isbn10": "031649934X",
-              "isbn13": "9780316499347"
-            },
-            {
-              "isbn10": "0759555699",
-              "isbn13": "9780759555693"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/031649934X?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=21ST+BIRTHDAY&author=James+Patterson+and+Maxine+Paetro"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316499347"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252F21ST%252BBIRTHDAY%252FJames%252BPatterson%252Band%252BMaxine%252BPaetro%252F9780316499347&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253D21ST%252BBIRTHDAY%252BJames%252BPatterson%252Band%252BMaxine%252BPaetro"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316499347&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3D21ST%2BBIRTHDAY"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316499347%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3D21ST%2BBIRTHDAY%2BJames%2BPatterson%2Band%2BMaxine%2BPaetro%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/aa2486a9-4ecb-5f14-8cd9-4f501581f2ee"
+          "tags":["fantasy","tech","lifestyle"]
+         
         },
+
         {
           "rank": 4,
           "publisher": "Viking",
@@ -185,34 +76,8 @@
           "book_image_width": 362,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/059346527X?tag=NYTBSREV-20",
-          "tags":["action","religion","knowing"],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/059346527X?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+HILL+WE+CLIMB&author=Amanda+Gorman"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593465271"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BHILL%252BWE%252BCLIMB%252FAmanda%252BGorman%252F9780593465271&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BHILL%252BWE%252BCLIMB%252BAmanda%252BGorman"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593465271&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BHILL%2BWE%2BCLIMB"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593465271%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BHILL%2BWE%2BCLIMB%2BAmanda%2BGorman%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/a95afb91-235c-578c-847a-a98d0af7b6a0"
+          "tags":["action","religion","knowing"]
+       
         },
         {
           "rank": 5,
@@ -227,44 +92,7 @@
           "book_image_width": 331,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/1501133543?tag=NYTBSREV-20",
-          "tags":["comedy","meme","comic"],
-          "isbns": [
-            {
-              "isbn10": "1501133543",
-              "isbn13": "9781501133541"
-            },
-            {
-              "isbn10": "150113356X",
-              "isbn13": "9781501133565"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/1501133543?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THAT+SUMMER&author=Jennifer+Weiner"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501133541"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHAT%252BSUMMER%252FJennifer%252BWeiner%252F9781501133541&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHAT%252BSUMMER%252BJennifer%252BWeiner"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501133541&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHAT%2BSUMMER"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501133541%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHAT%2BSUMMER%2BJennifer%2BWeiner%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/4c340a7c-4bb0-540b-be7f-1ec8550d197d"
+          "tags":["comedy","meme","comic"]
         },
         {
           "rank": 6,
@@ -279,44 +107,7 @@
           "book_image_width": 331,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/0593135202?tag=NYTBSREV-20",
-          "tags":["games","dance","sport"],
-          "isbns": [
-            {
-              "isbn10": "0593135202",
-              "isbn13": "9780593135204"
-            },
-            {
-              "isbn10": "0593135210",
-              "isbn13": "9780593135211"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/0593135202?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=PROJECT+HAIL+MARY&author=Andy+Weir"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593135204"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FPROJECT%252BHAIL%252BMARY%252FAndy%252BWeir%252F9780593135204&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DPROJECT%252BHAIL%252BMARY%252BAndy%252BWeir"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780593135204&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DPROJECT%2BHAIL%2BMARY"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780593135204%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DPROJECT%2BHAIL%2BMARY%2BAndy%2BWeir%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/36c6314a-7962-511c-b4c8-7927200740af"
+          "tags":["games","dance","sport"]
         },
         {
           "rank": 7,
@@ -331,48 +122,7 @@
           "book_image_width": 331,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/0525559477?tag=NYTBSREV-20",
-          "tags":["physices","hororr","science"],
-          "isbns": [
-            {
-              "isbn10": "0525559477",
-              "isbn13": "9780525559474"
-            },
-            {
-              "isbn10": "0525559485",
-              "isbn13": "9780525559481"
-            },
-            {
-              "isbn10": "0655697071",
-              "isbn13": "9780655697077"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/0525559477?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+MIDNIGHT+LIBRARY&author=Matt+Haig"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525559474"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BMIDNIGHT%252BLIBRARY%252FMatt%252BHaig%252F9780525559474&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BMIDNIGHT%252BLIBRARY%252BMatt%252BHaig"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780525559474&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BMIDNIGHT%2BLIBRARY"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780525559474%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BMIDNIGHT%2BLIBRARY%2BMatt%2BHaig%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/60d0ee2d-3d05-50c9-a484-050d17a2308e"
+          "tags":["physices","hororr","science"]
         },
         {
           "rank": 8,
@@ -387,44 +137,7 @@
           "book_image_width": 331,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/1501171348?tag=NYTBSREV-20",
-          "tags":["fantasy","hororr","science"],
-          "isbns": [
-            {
-              "isbn10": "1501171348",
-              "isbn13": "9781501171345"
-            },
-            {
-              "isbn10": "1501171364",
-              "isbn13": "9781501171369"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/1501171348?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+LAST+THING+HE+TOLD+ME&author=Laura+Dave"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501171345"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BLAST%252BTHING%252BHE%252BTOLD%252BME%252FLaura%252BDave%252F9781501171345&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BLAST%252BTHING%252BHE%252BTOLD%252BME%252BLaura%252BDave"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781501171345&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781501171345%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BLAST%2BTHING%2BHE%2BTOLD%2BME%2BLaura%2BDave%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/b38ae769-e873-5272-bb5a-c58a35162db1"
+          "tags":["fantasy","hororr","science"]
         },
         {
           "rank": 9,
@@ -439,52 +152,7 @@
           "book_image_width": 331,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/1538719673?tag=NYTBSREV-20",
-          "tags":["fantasy","hororr","science"],
-          "isbns": [
-            {
-              "isbn10": "1538719673",
-              "isbn13": "9781538719671"
-            },
-            {
-              "isbn10": "1538719649",
-              "isbn13": "9781538719640"
-            },
-            {
-              "isbn10": "1549160583",
-              "isbn13": "9781549160585"
-            },
-            {
-              "isbn10": "1549160575",
-              "isbn13": "9781549160578"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/1538719673?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=A+GAMBLING+MAN&author=David+Baldacci"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538719671"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FA%252BGAMBLING%252BMAN%252FDavid%252BBaldacci%252F9781538719671&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DA%252BGAMBLING%252BMAN%252BDavid%252BBaldacci"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781538719671&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DA%2BGAMBLING%2BMAN"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781538719671%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DA%2BGAMBLING%2BMAN%2BDavid%2BBaldacci%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/011539d9-57f1-5254-81e9-4b8116c7dfde"
+          "tags":["fantasy","hororr","science"]
         },
         {
           "rank": 10,
@@ -499,52 +167,7 @@
           "book_image_width": 329,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/1250178606?tag=NYTBSREV-20",
-          "tags":["fantasy","parents","light"],
-          "isbns": [
-            {
-              "isbn10": "1250178606",
-              "isbn13": "9781250178602"
-            },
-            {
-              "isbn10": "1250178622",
-              "isbn13": "9781250178626"
-            },
-            {
-              "isbn10": "1250317258",
-              "isbn13": "9781250317254"
-            },
-            {
-              "isbn10": "1643588230",
-              "isbn13": "9781643588230"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/1250178606?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+FOUR+WINDS&author=Kristin+Hannah"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250178602"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BFOUR%252BWINDS%252FKristin%252BHannah%252F9781250178602&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BFOUR%252BWINDS%252BKristin%252BHannah"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250178602&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BFOUR%2BWINDS"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250178602%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BFOUR%2BWINDS%2BKristin%2BHannah%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/c34834c6-f957-5b0b-8fd7-abd9c35eebed"
+          "tags":["fantasy","parents","light"]
         },
         {
           "rank": 11,
@@ -559,44 +182,7 @@
           "book_image_width": 323,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/0316530239?tag=NYTBSREV-20",
-          "tags":["kids","happy"],
-          "isbns": [
-            {
-              "isbn10": "0316530239",
-              "isbn13": "9780316530231"
-            },
-            {
-              "isbn10": "0316530255",
-              "isbn13": "9780316530255"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/0316530239?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+DEVIL+MAY+DANCE&author=Jake+Tapper"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316530231"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BDEVIL%252BMAY%252BDANCE%252FJake%252BTapper%252F9780316530231&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BDEVIL%252BMAY%252BDANCE%252BJake%252BTapper"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780316530231&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BDEVIL%2BMAY%2BDANCE"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780316530231%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BDEVIL%2BMAY%2BDANCE%2BJake%2BTapper%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/9fb2a8c7-9d97-50e5-8107-bf0e35e82b10"
+          "tags":["kids","happy"]
         },
         {
           "rank": 12,
@@ -611,48 +197,7 @@
           "book_image_width": 331,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/0765387565?tag=NYTBSREV-20",
-          "tags":["child","development","family"],
-          "isbns": [
-            {
-              "isbn10": "0765387565",
-              "isbn13": "9780765387561"
-            },
-            {
-              "isbn10": "1250793971",
-              "isbn13": "9781250793997"
-            },
-            {
-              "isbn10": "1250793998",
-              "isbn13": "9781250795182"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/0765387565?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+INVISIBLE+LIFE+OF+ADDIE+LARUE&author=V.E.+Schwab"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780765387561"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BINVISIBLE%252BLIFE%252BOF%252BADDIE%252BLARUE%252FV.E.%252BSchwab%252F9780765387561&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BINVISIBLE%252BLIFE%252BOF%252BADDIE%252BLARUE%252BV.E.%252BSchwab"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9780765387561&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BINVISIBLE%2BLIFE%2BOF%2BADDIE%2BLARUE"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9780765387561%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BINVISIBLE%2BLIFE%2BOF%2BADDIE%2BLARUE%2BV.E.%2BSchwab%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/c9bf2d03-7b78-58d8-a9d7-a9b897d08427"
+          "tags":["child","development","family"] 
         },
         {
           "rank": 13,
@@ -667,48 +212,8 @@
           "book_image_width": 329,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/1984821466?tag=NYTBSREV-20",
-          "tags":["development","life hacks","tips"],
-          "isbns": [
-            {
-              "isbn10": "1984821466",
-              "isbn13": "9781984821461"
-            },
-            {
-              "isbn10": "1984821474",
-              "isbn13": "9781984821478"
-            },
-            {
-              "isbn10": "0593395557",
-              "isbn13": "9780593395554"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/1984821466?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=FINDING+ASHLEY&author=Danielle+Steel"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781984821461"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FFINDING%252BASHLEY%252FDanielle%252BSteel%252F9781984821461&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DFINDING%252BASHLEY%252BDanielle%252BSteel"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781984821461&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DFINDING%2BASHLEY"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781984821461%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DFINDING%2BASHLEY%2BDanielle%2BSteel%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/8984e0bc-5551-5f4c-be32-47e41fb5e55f"
+          "tags":["development","life hacks","tips"]
+           
         },
         {
           "rank": 14,
@@ -723,44 +228,7 @@
           "book_image_width": 329,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/1982148349?tag=NYTBSREV-20",
-          "tags":["life","knowing","development"],
-          "isbns": [
-            {
-              "isbn10": "1982148349",
-              "isbn13": "9781982148348"
-            },
-            {
-              "isbn10": "1982148365",
-              "isbn13": "9781982148362"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/1982148349?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+SUMMER+OF+LOST+AND+FOUND&author=Mary+Alice+Monroe"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781982148348"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BSUMMER%252BOF%252BLOST%252BAND%252BFOUND%252FMary%252BAlice%252BMonroe%252F9781982148348&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BSUMMER%252BOF%252BLOST%252BAND%252BFOUND%252BMary%252BAlice%252BMonroe"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781982148348&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BSUMMER%2BOF%2BLOST%2BAND%2BFOUND"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781982148348%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BSUMMER%2BOF%2BLOST%2BAND%2BFOUND%2BMary%2BAlice%2BMonroe%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/9989d8ca-1403-5c26-afa7-1be96964ffc1"
+          "tags":["life","knowing","development"] 
         },
         {
           "rank": 15,
@@ -775,40 +243,7 @@
           "book_image_width": 329,
           "book_image_height": 500,
           "amazon_product_url": "https://www.amazon.com/dp/1250256968?tag=NYTBSREV-20",
-          "tags":["home","sport","family"],
-          "isbns": [
-            {
-              "isbn10": "1250256968",
-              "isbn13": "9781250256966"
-            }
-          ],
-          "buy_links": [
-            {
-              "name": "Amazon",
-              "url": "https://www.amazon.com/dp/1250256968?tag=NYTBSREV-20"
-            },
-            {
-              "name": "Apple Books",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/buy?title=THE+NEWCOMER&author=Mary+Kay+Andrews"
-            },
-            {
-              "name": "Barnes and Noble",
-              "url": "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250256966"
-            },
-            {
-              "name": "Books-A-Million",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fp%252FTHE%252BNEWCOMER%252FMary%252BKay%252BAndrews%252F9781250256966&url2=https%3A%2F%2Fwww.anrdoezrs.net%2Fclick-7990613-35140%3Furl%3Dhttps%253A%252F%252Fwww.booksamillion.com%252Fsearch%253Fquery%253DTHE%252BNEWCOMER%252BMary%252BKay%252BAndrews"
-            },
-            {
-              "name": "Bookshop",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fbookshop.org%2Fa%2F3546%2F9781250256966&url2=https%3A%2F%2Fbookshop.org%2Fbooks%3Fkeywords%3DTHE%2BNEWCOMER"
-            },
-            {
-              "name": "IndieBound",
-              "url": "https://du-gae-books-dot-nyt-du-prd.appspot.com/redirect?url1=https%3A%2F%2Fwww.indiebound.org%2Fbook%2F9781250256966%3Faff%3DNYT&url2=https%3A%2F%2Fwww.indiebound.org%2Fsearch%2Fbook%3Fkeys%3DTHE%2BNEWCOMER%2BMary%2BKay%2BAndrews%26aff%3DNYT"
-            }
-          ],
-          "book_uri": "nyt://book/f9d0cec6-cbc5-5add-b494-600ef4fe13de"
+          "tags":["home","sport","family"] 
         }
       ]
     }

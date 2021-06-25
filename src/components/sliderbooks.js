@@ -1,29 +1,26 @@
-import { Author, Name, ImgContainer,Overlay,Centered, Book,Buy,Price, Bottom } from "./homeStyle";
+import { Author, Name, ImgContainer, BookWapper,CardContainer, Rate,Stars } from "./home/homeStyle";
 import React, { useEffect, useState } from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Autoplay} from 'swiper';
 import "swiper/swiper.min.css";
 import "swiper/components/pagination/pagination.min.css";
-import "./styles.css";
+// import "./styles.css";
 import { Link } from "react-router-dom";
 import Loading from "./others/loading";
+import { FaStar } from "react-icons/fa";
 
 SwiperCore.use([Autoplay]);
 
 export default function SliderBooks(props) {
   const {books} = props;
   const [loading, setLoading] = useState(true);
-  const devices = {
-    phone:300,
-    tablet:768,
-    medium:900,
-
-  };
-  const currnt_device = window.outerWidth;
+  
+  const currnt_device =  window.innerWidth;
   let  books_numbers = 0;
-   currnt_device <= 400 ?  books_numbers = 2 :
-   400 < currnt_device && currnt_device <= 780? books_numbers = 3 :
-   780 < currnt_device && currnt_device <= 900? books_numbers = 4:
+   currnt_device <= 300 ?  books_numbers = 1 :
+   300 < currnt_device && currnt_device <= 500? books_numbers = 2:
+   500 < currnt_device && currnt_device <= 700? books_numbers = 3:
+   700 < currnt_device && currnt_device <= 900? books_numbers = 4:
    900 < currnt_device && currnt_device <= 1400?books_numbers = 5:
    books_numbers=5;
 
@@ -46,18 +43,29 @@ export default function SliderBooks(props) {
       > 
       {books.map((book) => {
           return (
-            <SwiperSlide>
-              <Book>
-                <ImgContainer>
+            <SwiperSlide key={Math.random()}>
+              <BookWapper>
+                <ImgContainer link={`/category/${book.title.replaceAll(" ","_")}`}>
 
-                <Link to={`/category/${book.title.replaceAll(" ","_")}`}>
-                              <img src={book.book_image} alt={book.title} width="100%" />    
-                   </Link>
+                <Link to={`/category/${book.title.replaceAll(" ","_")}`}> </Link>
+                 <img src={book.book_image} alt={book.title} width="100%" />    
+               
                 </ImgContainer>
+                <CardContainer>
               <Author> {book.author.toLowerCase()} </Author>
               <Name> {book.title} </Name> 
-              </Book>
-            
+<Rate>
+<Stars>
+           <FaStar />
+           <FaStar />   
+           <FaStar /> 
+           <FaStar />
+
+ </Stars>
+<span> (+4.5)</span>
+</Rate>
+              </CardContainer>   
+              </BookWapper>
             </SwiperSlide>
           );
         })}

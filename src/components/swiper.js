@@ -19,16 +19,16 @@ export default function Caursole () {
         }}
       >
       <SwiperSlide> 
-        <img src={process.env.PUBLIC_URL+'/assesst/images/slide1.png'} width='100%'/>
+        <img src={process.env.PUBLIC_URL+'/assesst/images/slide1.png'} width='100%' alt="slide1"/>
       </SwiperSlide>
       <SwiperSlide>
-      <img src={process.env.PUBLIC_URL+'/assesst/images/slide2.png'} width='100%'/>
+      <img src={process.env.PUBLIC_URL+'/assesst/images/slide2.png'} width='100%' alt="slide2"/>
       </SwiperSlide>
       <SwiperSlide> 
-        <img src={process.env.PUBLIC_URL+'/assesst/images/slide3.png'} width='100%'/>
+        <img src={process.env.PUBLIC_URL+'/assesst/images/slide3.png'} width='100%' alt="slide3"/>
       </SwiperSlide>
       <SwiperSlide>
-      <img src={process.env.PUBLIC_URL+'/assesst/images/slide4.png'} width='100%'/>
+      <img src={process.env.PUBLIC_URL+'/assesst/images/slide4.png'} width='100%' alt="slide4"/>
       </SwiperSlide>
 
     </Swiper>
